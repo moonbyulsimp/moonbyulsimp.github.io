@@ -1,4 +1,13 @@
-.moonbyulvpose {
+#moonbyulvpose {
 	width: 120px;
 	height: auto;
+	margin: 50px;
+	background-color: #C3B1E1;
+	padding: 20px;
+}
+
+h1 {
+	background-color: #FDFD96;
+	padding: 25px;
+	width: 250px;
 }
