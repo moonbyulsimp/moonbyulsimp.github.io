@@ -1,12 +1,13 @@
 
 .container {
 	padding:10px;
-	display: inline-block;
+	float:left;
 }
 
 .allpics {
 	background-color: #C3B1E1;
-	width: 549px;
+	width: 550px;
+	display:table;
 }
 
 h1 {
