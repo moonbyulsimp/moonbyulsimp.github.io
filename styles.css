@@ -6,8 +6,11 @@
 
 .allpics {
 	background-color: #C3B1E1;
-	width: 550px;
+	width: 542px;
 	display:table;
+	margin-left: 20px;
+	margin-right:-35px;
+
 }
 
 h1 {
@@ -19,7 +22,7 @@ h1 {
 .facts {
 	background-color: #D8F3E9;
 	padding: 10px;
-	width: 550px;
+	width: 600px;
 }
 
 #moonbyulpic {
