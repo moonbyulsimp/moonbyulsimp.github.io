@@ -9,6 +9,10 @@
 	width: 925px;
 }
 
+html {
+	width:500px;
+}
+
 h1 {
 	background-color: #FDFD96;
 	padding: 25px;
@@ -18,7 +22,7 @@ h1 {
 .facts {
 	background-color: #D8F3E9;
 	padding: 10px;
-	width: 500px;
+	width: 550px;
 }
 
 #moonbyulpic {
